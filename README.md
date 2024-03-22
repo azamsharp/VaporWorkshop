@@ -12,6 +12,7 @@
 - [Install brew](https://brew.sh/) 
 - [Install Vapor](https://docs.vapor.codes/install/macos/)
 - Install a Networking Tool ([Postman](https://www.postman.com/))
+- [Vapor Discord Community](https://discord.com/invite/vapor)
 
 ### Routing 
 
