@@ -13,6 +13,7 @@
 - [Install Vapor](https://docs.vapor.codes/install/macos/)
 - Install a Networking Tool ([Postman](https://www.postman.com/))
 - [Vapor Discord Community](https://discord.com/invite/vapor)
+- [BeeKeeper Community Edition](https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v4.1.13)
 
 ### Routing 
 
